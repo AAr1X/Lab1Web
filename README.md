@@ -2,7 +2,7 @@
 1.  Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 
-2.  Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2.  Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
   
 3.  Apa perbedaan atribut "title" dan "alt" pada tag <img>, berikan penjelasannya!
   
@@ -25,7 +25,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
   
 4.  Hal yang saya amati jika hanya menggunakan "width" maka hasilnya masih akan proporsional, untuk pertanyaan "kedua atribut tersebut diisi semua atau tidak?" maka saya   akan menjawab diisi sesuai dengan kebutuhan yang kita butuhkan
   
-5. _blank link ditampilkan pada tab baru
-  _self link ditampilkan pada tab yang sedang digunakan sekarang
-  _top link ditampilan dengan fullscreen
-  _parent link ditampilkan dengan halaman teratas 
+5.  blank link ditampilkan pada tab baru
+    self link ditampilkan pada tab yang sedang digunakan sekarang
+    top link ditampilan dengan fullscreen
+    parent link ditampilkan dengan halaman teratas 
