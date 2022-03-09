@@ -13,9 +13,8 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
   Jawaban.
-1.  Hal pertama yang saya amati adalah tag "P", pada tag "P" sebagai contoh saya menuliskan <p>Ari Nugrohojati</p> maka hasilnya normal atau akan mengeluarkan input yang kita masukan "Ari Nugroho". Apabila saya menuliskan tag yang salah contoh <pqwerty>Ari Nugroho<p> hasilnya pun masih sama normal seperti di atas, di sini saya mengambil kesimpulan bahwa HTML itu berbentuk txt atau text dengan bukti paragraf yang saya tuliskan tanpa tag akan menghasilkan tulisan yang kita masukan.
   
-  Untuk pengamatan kedua saya menggunakan tag <img src=>, pertama saya menuliskan <img src="Pelita Bangsa.png title="Logo Univeritas Pelita Bangsa"> hasilnya akan keluar logo Universitas Pelita Bangsa. Jika saya salah menulisakn tag seperti <im src="> maka tidak akan muncul apa-apa sama sekali.
+1. untuk pengamatan saya menggunakan tag <img src=>, pertama saya menuliskan <img src="Pelita Bangsa.png title="Logo Univeritas Pelita Bangsa"> hasilnya akan keluar logo Universitas Pelita Bangsa. Jika saya salah menulisakn tag seperti <im src="> maka tidak akan muncul apa-apa sama sekali.
   
 2.  tag "p" digunakan untuk membuat sebuah paragraf, sedangkan untuk tag "br" digunakan untuk membuat sebuah baris baru atau membuat enter
   
@@ -23,3 +22,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
   ![WhatsApp Image 2022-03-09 at 04 40 32](https://user-images.githubusercontent.com/101261241/157443763-7465c208-e04d-434d-aab7-5c448ae43a86.jpeg)
   Sedangkan untuk atribut "alt" digunakan untuk memberi keterangan jika gambar rusak
   ![alt](https://user-images.githubusercontent.com/101261241/157443995-45f5609a-20cc-46a9-ab78-db9970e041aa.PNG)
+  
+4.  Hal yang saya amati jika hanya menggunakan "width" maka hasilnya masih akan proporsional, untuk pertanyaan "kedua atribut tersebut diisi semua atau tidak?" maka saya   akan menjawab diisi sesuai dengan kebutuhan yang kita butuhkan
+  
+5. _blank link ditampilkan pada tab baru
+  _self link ditampilkan pada tab yang sedang digunakan sekarang
+  _top link ditampilan dengan fullscreen
+  _parent link ditampilkan dengan halaman teratas 
