@@ -25,7 +25,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
   
 4.  Hal yang saya amati jika hanya menggunakan "width" maka hasilnya masih akan proporsional, untuk pertanyaan "kedua atribut tersebut diisi semua atau tidak?" maka saya   akan menjawab diisi sesuai dengan kebutuhan yang kita butuhkan
   
-5.  blank link ditampilkan pada tab baru
-    self link ditampilkan pada tab yang sedang digunakan sekarang
-    top link ditampilan dengan fullscreen
-    parent link ditampilkan dengan halaman teratas 
+5.  blank link ditampilkan pada tab baru <br>
+    self link ditampilkan pada tab yang sedang digunakan sekarang <br>
+    top link ditampilan dengan fullscreen<br>
+    parent link ditampilkan dengan halaman teratas <br>
