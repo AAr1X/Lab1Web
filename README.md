@@ -1,3 +1,8 @@
+  Nama  : Ari Nugrohoajati
+  NIM   : 312010366
+  Kelas : TI. 20. A. 2
+  
+  
   Soal.
 1.  Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
