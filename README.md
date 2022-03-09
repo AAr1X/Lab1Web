@@ -17,7 +17,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
   
   Untuk pengamatan kedua saya menggunakan tag <img src=>, pertama saya menuliskan <img src="Pelita Bangsa.png title="Logo Univeritas Pelita Bangsa"> hasilnya akan keluar logo Universitas Pelita Bangsa. Jika saya salah menulisakn tag seperti <im src="> maka tidak akan muncul apa-apa sama sekali.
   
-2.  tag <p> digunakan untuk membuat sebuah paragraf, sedangkan untuk tag <br> digunakan untuk membuat sebuah baris baru atau membuat enter
+2.  tag "p" digunakan untuk membuat sebuah paragraf, sedangkan untuk tag "br" digunakan untuk membuat sebuah baris baru atau membuat enter
   
 3.  Untuk atribut "title" digunakan untuk memberi keterangan pada sebuah gambar dengan cara kita mendekatkan cursor pada gambar. 
   ![WhatsApp Image 2022-03-09 at 04 40 32](https://user-images.githubusercontent.com/101261241/157443763-7465c208-e04d-434d-aab7-5c448ae43a86.jpeg)
